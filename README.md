@@ -22,8 +22,7 @@ Siga os passos abaixo para configurar e executar os projetos.
 
 Primeiramente, clone este repositório para sua máquina local:
 ```bash
-git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-cd SEU-REPOSITORIO
+git clone https://github.com/LorenzzoMP/Aprendendo_CrewAi.git
 ```
 
 ### 2. Configurar as Chaves de API
